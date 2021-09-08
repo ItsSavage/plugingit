@@ -1,17 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to Plugin.git
 
 You can use the [editor on GitHub](https://github.com/ItsSavage/plugingit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### What is plugin.git
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This program helps you get any plugin for minecraft 👌 
 
 ```markdown
-Syntax highlighted code block
+How to release your plugin?
 
-# Header 1
+# Create account
+
+- Click on login/signup
+- Enter your Gitname ( username of plugin.git ), password and email click signup
+
 ## Header 2
 ### Header 3
 
